@@ -1,0 +1,5 @@
+1° Git clone <HTTPS link>
+2° Git Status (Dentro da pasta do repositório)
+3° Git add . 
+4° git communit -m "TXT"
+5° git push -u origin main
