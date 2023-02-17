@@ -5,8 +5,26 @@ body{
 
 h1{
     background-image: url(../img/sobre-background.jpg);
+    color: #ff0000;
+    padding: 10px;
+    margin-top: 30px;
 }
 
 h2{
     border-bottom: 2px solid #333333;
+    background: color #ffff00;
 }
+
+h3{
+    color: rgb(255, 200, 0);
+    background-color: #f2eded;
+}
+
+p{
+    padding: 10px 20px 15px 5px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    height: 300px;
+    weight: 300px;
+}
+
